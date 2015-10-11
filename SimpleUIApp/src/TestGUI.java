@@ -1,5 +1,6 @@
 public class TestGUI extends javax.swing.JFrame {
 
+    // This is Constructor
     public TestGUI() {
         initComponents();
     }
